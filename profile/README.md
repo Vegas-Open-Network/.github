@@ -1,7 +1,7 @@
 # Vegas Open Network (VONet)
 
 VONet is a nonprofit project building a **fair, accessible, and community-owned internet** across Las Vegas.  
-Inspired by [NYC Mesh](https://nycmesh.net) and guided by the [Network Commons License](https://vonet.org),  
+Inspired by [NYC Mesh](https://nycmesh.net) and guided by the [Network Commons License](https://networkcommons.org/ncl/),
 we run an open network that anyone can join.
 
 We develop the code, tools, and docs that keep the network running and growing.
