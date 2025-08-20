@@ -1,0 +1,18 @@
+name: Link Check
+
+on:
+  pull_request:
+    paths:
+      - 'profile/README.md'
+      - '.github/workflows/link-check.yml'
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links in profile README
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: '--verbose profile/README.md'
+          fail: true
