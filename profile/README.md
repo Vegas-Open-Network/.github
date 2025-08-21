@@ -26,12 +26,6 @@ as a shared public resource.
 
 ---
 
-## GitHub
-Most of our code is open source and hosted here:  
-👉 [github.com/Vegas-Open-Network](https://github.com/Vegas-Open-Network)
-
----
-
 ## Projects
 - **VONet-Website** – Public website for Vegas Open Network.  
 - **VONet-Data** – Core data system for signups, setup, volunteer scheduling, and service calls.  
