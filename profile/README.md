@@ -26,15 +26,6 @@ as a shared public resource.
 
 ---
 
-## Projects
-- **VONet-Website** – Public website for Vegas Open Network.  
-- **VONet-Data** – Core data system for signups, setup, volunteer scheduling, and service calls.  
-- **VONet-Status** – Network and outage notification system.  
-- **VONet-PWA** – Progressive Web App for iOS and Android.  
-- **VONet-Events** – Event planning and community engagement.  
-
----
-
 ## How to Contribute
 1. Fork the repo you want to work on.  
 2. Make changes in a separate branch.  
