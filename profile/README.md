@@ -31,3 +31,7 @@ See our [Wiki](https://wiki.vonet.org/) for full development and governance docs
 - Email: [support@vonet.org](mailto:support@vonet.org)  
 
 ⚡ *VONet is powered by community, volunteers, and donations. Together, we’re building the internet as a commons.*
+
+---
+
+Content is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license unless otherwise noted. See [LICENSE.md](../LICENSE.md) for details.
