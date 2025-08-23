@@ -6,26 +6,6 @@ we run an open network that anyone can join.
 
 We develop the code, tools, and docs that keep the network running and growing.
 
----
-
-## Mission
-Build a **community-owned network** that connects everyone in Las Vegas, with no contracts,  
-no hidden fees, and no barriers.
-
-## 👁Vision
-A connected city where everyone can access, build, and shape the internet  
-as a shared public resource.
-
----
-
-## Goals
-- Build and improve core network software.  
-- Create tools for node setup and monitoring.  
-- Maintain documentation for setup, operations, and governance.  
-- Test and deploy new features in the mesh.  
-
----
-
 ## How to Contribute
 1. Fork the repo you want to work on.  
 2. Make changes in a separate branch.  
@@ -35,13 +15,9 @@ as a shared public resource.
 
 See our [Wiki](https://wiki.vonet.org/) for full development and governance docs.
 
----
-
 ## Communication
 - Use **GitHub Issues** for bugs and feature requests.  
 - Join **developer meetings** (see Wiki for schedule).  
-
----
 
 ## Development Process
 1. Discuss changes in Issues or meetings.  
@@ -50,13 +26,8 @@ See our [Wiki](https://wiki.vonet.org/) for full development and governance docs
 4. Get a review from another contributor.  
 5. Merge when approved and tested.  
 
----
-
 ## 📚 Learn More
 - Website: [VONet.org](https://vonet.org)  
 - Email: [support@vonet.org](mailto:support@vonet.org)  
-- Founder: [Jacob Kukuk](https://jacobkukuk.com) | [LinkedIn](https://www.linkedin.com/in/jacobkukuk/)  
-
----
 
 ⚡ *VONet is powered by community, volunteers, and donations. Together, we’re building the internet as a commons.*
